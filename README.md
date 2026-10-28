@@ -118,7 +118,7 @@ You may also need a \`.env\` in \`/client\` for environment variables.
 
 ## 📄 License
 
-This project is licensed under the **ISC License**.
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 
 ---
 
