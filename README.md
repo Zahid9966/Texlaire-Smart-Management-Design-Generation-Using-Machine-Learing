@@ -83,16 +83,6 @@ npm start
 
 ---
 
-## 🌐 Tunneling (Optional)
-
-To expose your local project to the web (e.g., for demos or webhook testing), run:
-
-\`\`\`bash
-npx localtunnel --port 5000
-\`\`\`
-
----
-
 ## 🧪 Available Scripts
 
 | Command            | Description                                      |
@@ -109,7 +99,7 @@ npx localtunnel --port 5000
 - **Frontend**: React, Vite, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Utilities**: Concurrently, Localtunnel, Nanoid, WS
+- **Utilities**: Concurrently, Nanoid, WS
 
 ---
 
